@@ -22,7 +22,7 @@ Lorsque vous tapez `ls -l`, vous voyez un bloc de 10 caractères, par exemple : 
 
 ---
 
-## 2. Les Pouvoirs (QUELS sont les droits ?)
+## 2. Les Pouvoirs (QUELS sont les droits ? )
 
 Il existe 3 droits fondamentaux. À chacun correspond une lettre et une valeur mathématique (une puissance de 2) :
 
